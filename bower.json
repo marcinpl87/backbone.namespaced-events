@@ -1,0 +1,5 @@
+{
+  "name"            : "backbone-namespaced-events",
+  "version"         : "0.1.0",
+  "description"     : "jQuery style, dot-separated namespaced events for backbone"
+}
